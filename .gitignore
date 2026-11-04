@@ -1,0 +1,12 @@
+# Secrets
+.restic-password
+.env
+*.key
+*.pem
+*.secret
+
+# Logs and backup data
+*.log
+backup/
+backups/
+recovery-test/
