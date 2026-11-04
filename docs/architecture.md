@@ -20,7 +20,6 @@
 
 ### Sxema
 
-```text
 SRV-PROD
 10.99.0.10
     |
