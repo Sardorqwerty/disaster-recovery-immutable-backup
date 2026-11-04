@@ -1,7 +1,6 @@
 # Arxitektura / Архитектура
 
 ## O‘zbekcha
-
 ### Serverlar
 
 | Server | IP manzili | OS | Vazifasi |
